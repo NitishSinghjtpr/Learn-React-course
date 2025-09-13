@@ -1,0 +1,32 @@
+.style1{
+    display: flex;
+    justify-content:space-between ;
+   
+    background-color: black;
+    
+
+}
+.logo{
+    margin-left: 15px;
+    text-decoration:solid;
+    font-style: oblique;
+    font-weight: 600;
+    font-size: larger;
+}
+.li1 {
+    display: flex;
+  
+  list-style: none;  /* bullet hata dega */
+  padding: 0;        /* default padding bhi hatao */
+  margin: 0;
+  margin-left: 50rem;
+
+}
+a{
+    margin-left: 20px;
+}
+.footer{
+    background-color:black;
+    text-align: center;
+    color:white;
+}
